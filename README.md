@@ -5,8 +5,15 @@
 **Objetivo:** *Aplicar meus conhecimentos adquiridos em um projeto prático, automatizando testes em aplicações web por meio da combinação Selenium e Python.*
 
 ## Projeto - 01
-Status: `Em Andamento`
+Status: `Concluído`
 
-- **Automação da página:** [Visitar Página](https://demo.automationtesting.in)
+- **Automação das páginas:** (https://demo.automationtesting.in) (https://practice.automationtesting.in/my-account/).
 - **Scripts dos testes:** [Repositório no GitHub](https://github.com/goisjackson/Automacao-Testes-Web-Selenium-Webdriver-Python/tree/main/01%20-%20Projeto/Scripts)
-- **Testes Realizados:** <span style="color:green">`27 Testes`</span>
+- **Testes Realizados:** <span style="color:green">`32 Testes`</span>
+
+## Projeto - 02
+Status: `Andamento`
+
+- **Automação das páginas:** 
+- **Scripts dos testes:** [Repositório no GitHub]()
+- **Testes Realizados:** <span style="color:green">`00 Testes`</span>
